@@ -4,7 +4,7 @@ published: 2024-11-10
 description: 'Very basic intro to Web Development.'
 image: ''
 tags: ['Web Development', 'HTML', 'CSS', 'Javascript']
-category: 'Web Development'
+category: 'Tutorial'
 draft: false 
 lang: 'en'
 ---
