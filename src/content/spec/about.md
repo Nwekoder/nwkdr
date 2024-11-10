@@ -1,9 +1,15 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Hello there, my name is **Muhammad Chandra Hasan**. I'm a Self-Taught Full-Stack Web Developer based on **Makassar, South Sulawesi, Indonesia** mostly work with **Javascript/Typescript** in **Node.js**. I love to learn new stuff in IT especially computer programming in general.
 
-::github{repo="saicaca/fuwari"}
+I also learn other programming languages, like :
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+- Python
+- Kotlin
+- PHP
+- Golang
+- C++
+- Java
+- C
+- Dart (Flutter only)
+
+Yes, I **teach people how to program** and **think like programmer**. And yes, I'm *Weeb*, *Rhythm Game Freaks* and *Artcore Music Lover*.
